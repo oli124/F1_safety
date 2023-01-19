@@ -30,13 +30,16 @@ Breakdown of Tasks:
      - Create visualisation of driver fatalities vs. time;
      - Create visualisation of driver fatalities vs. number of competing drivers;
      - Create power point to showcase findings (approx. 3 slides)
+      - (ERW to work on)
  - Answer question 2:
      - Create visualisation of driver injuries vs. time;
      - Create visualisation of driver injuries vs. number of competing drivers;
      - Create visualisation of accidents/collisions vs. driver injuries;
      - Create power point to showcase findings (approx. 3 slides)
+      - (TF to work on)
  - Answer question 3:
      - Create visualisation of driver injuries vs. road circuit event. On the same plot include visualisation of driver injuries vs. dedicated race circuit       event;
      - Create power point to showcase findings (approx. 3 slides);
+      - (OK to work on)
 
 
