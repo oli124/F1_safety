@@ -39,7 +39,8 @@ Breakdown of Tasks:
      - Create power point to showcase findings (approx. 3 slides)
       - (TF to work on)
  - Answer question 3:
-     - Create visualisation of driver injuries vs. road circuit event. On the same plot include visualisation of driver injuries vs. dedicated race circuit       event;
+     - Create visualisation of driver injuries vs. road circuit event. On the same plot include visualisation of driver injuries vs. dedicated race circuit event;
+     - Could also include a second visualisation of driver fatalities vs. road circuit event. On the same plot include visualisation of driver fatalities vs. dedicated race circuit event;
      - Create power point to showcase findings (approx. 3 slides);
       - (OK to work on)
 
