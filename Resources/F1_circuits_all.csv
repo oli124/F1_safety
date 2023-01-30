@@ -1,94 +1,78 @@
-﻿Formula One circuits,,,,,,,,
-Circuit,Type,Direction,Location,Country,Last length used,Grands Prix,Season(s),Grands Prix held
-Adelaide Street Circuit,Street circuit,Clockwise,Adelaide,AustraliaAustralia,3.780 km (2.349 mi),Australian Grand Prix,1985–1995,11
-Ain-Diab Circuit,Road circuit,Clockwise,Casablanca,MoroccoMorocco,7.618 km (4.734 mi),Moroccan Grand Prix,1958,1
-Aintree Motor Racing Circuit,Road circuit,Clockwise,Aintree,United KingdomUnited Kingdom,4.828 km (3.000 mi),British Grand Prix,"1955, 1957, 1959, 1961–1962",5
-Albert Park Circuit ✔,Street circuit,Clockwise,Melbourne,AustraliaAustralia,5.278 km (3.280 mi),Australian Grand Prix,"1996–2019, 2022",25
-Algarve International Circuit,Race circuit,Clockwise,Portimão,PortugalPortugal,4.653 km (2.891 mi),Portuguese Grand Prix,2020–2021,2
-Autódromo do Estoril,Race circuit,Clockwise,Estoril,PortugalPortugal,4.360 km (2.709 mi),Portuguese Grand Prix,1984–1996,13
-Autodromo Enzo e Dino Ferrari ✔,Race circuit,Anti-clockwise,Imola,ItalyItaly,4.909 km (3.050 mi),"Italian Grand Prix,","1980–2006, 2020–2022",30
-,,,,,,"San Marino Grand Prix,",,
-,,,,,,Emilia Romagna Grand Prix,,
-Autódromo Hermanos Rodríguez ✔,Race circuit,Clockwise,Mexico City,MexicoMexico,4.304 km (2.674 mi),"Mexican Grand Prix,","1963–1970, 1986–1992, 2015–2019, 2021–2022",22
-,,,,,,Mexico City Grand Prix,,
-Autódromo Internacional do Rio de Janeiro,Race circuit,Anti-clockwise,Rio de Janeiro,BrazilBrazil,5.031 km (3.126 mi),Brazilian Grand Prix,"1978, 1981–1989",10
-Autodromo Internazionale del Mugello,Race circuit,Clockwise,Scarperia e San Piero,ItalyItaly,5.245 km (3.259 mi),Tuscan Grand Prix,2020,1
-Autodromo José Carlos Pace ✔,Race circuit,Anti-clockwise,São Paulo,BrazilBrazil,4.309 km (2.677 mi),"Brazilian Grand Prix,","1973–1977, 1979–1980, 1990–2019, 2021–2022",39
-,,,,,,São Paulo Grand Prix,,
-Autódromo Juan y Oscar Gálvez,Race circuit,Clockwise,Buenos Aires,ArgentinaArgentina,4.259 km (2.646 mi),Argentine Grand Prix,"1953–1958, 1960, 1972–1975, 1977–1981, 1995–1998",20
-Autodromo Nazionale di Monza ✔,Race circuit,Clockwise,Monza,ItalyItaly,5.793 km (3.600 mi),Italian Grand Prix,"1950–1979, 1981–2022",72
-AVUS,Road circuit,Anti-clockwise,Berlin,GermanyGermany,8.300 km (5.157 mi),German Grand Prix,1959,1
-Bahrain International Circuit ✔,Race circuit,Clockwise,Sakhir,BahrainBahrain,5.412 km (3.363 mi),"Bahrain Grand Prix,","2004–2010, 2012–2022[a]",19
-,,,,,,Sakhir Grand Prix,,
-Baku City Circuit ✔,Street circuit,Anti-clockwise,Baku,AzerbaijanAzerbaijan,6.003 km (3.730 mi),"European Grand Prix,","2016–2019, 2021–2022",6
-,,,,,,Azerbaijan Grand Prix,,
-Brands Hatch Circuit,Race circuit,Clockwise,West Kingsdown,United KingdomUnited Kingdom,3.703 km (2.301 mi),"British Grand Prix,","1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982–1986",14
-,,,,,,European Grand Prix,,
-Buddh International Circuit,Race circuit,Clockwise,Greater Noida,IndiaIndia,5.141 km (3.194 mi),Indian Grand Prix,2011–2013,3
-Bugatti Au Mans,Race circuit,Clockwise,Le Mans,FranceFrance,4.430 km (2.753 mi),French Grand Prix,1967,1
-Caesars Palace Grand Prix Circuit,Street circuit,Anti-clockwise,Paradise,United StatesUnited States,3.650 km (2.268 mi),Caesars Palace Grand Prix,1981–1982,2
-Charade Circuit,Road circuit,Clockwise,Saint-Genès-Champanelle,FranceFrance,8.055 km (5.005 mi),French Grand Prix,"1965, 1969–1970, 1972",4
-Circuit Bremgarten,Road circuit,Clockwise,Bern,SwitzerlandSwitzerland,7.208 km (4.479 mi),Swiss Grand Prix,1950–1954,5
-Circuit de Barcelona-Catalunya ✔,Race circuit,Clockwise,Montmeló,SpainSpain,4.675 km (2.905 mi),Spanish Grand Prix,1991–2022,32
-Circuit de Monaco ✔,Street circuit,Clockwise,Monte Carlo,MonacoMonaco,3.337 km (2.074 mi),Monaco Grand Prix,"1950, 1955–2019, 2021–2022",68
-Circuit de Nevers Magny-Cours,Race circuit,Clockwise,Magny-Cours,FranceFrance,4.411 km (2.741 mi),French Grand Prix,1991–2008,18
-Circuit de Pedralbes,Street circuit,Clockwise,Barcelona,SpainSpain,6.316 km (3.925 mi),Spanish Grand Prix,"1951, 1954",2
-Circuit de Reims-Gueux,Road circuit,Clockwise,Gueux,FranceFrance,8.302 km (5.159 mi),French Grand Prix,"1950–1951, 1953–1954, 1956, 1958–1961, 1963, 1966",11
-Circuit de Spa-Francorchamps ✔,Race circuit,Clockwise,Stavelot,BelgiumBelgium,7.004 km (4.352 mi),Belgian Grand Prix,"1950–1956, 1958, 1960–1968, 1970, 1983, 1985–2002, 2004–2005, 2007–2022",55
-Circuit Dijon-Prenois,Race circuit,Clockwise,Prenois,FranceFrance,3.886 km (2.415 mi),"French Grand Prix,","1974, 1977, 1979, 1981–1982, 1984",6
-,,,,,,Swiss Grand Prix,,
-Circuit Gilles-Villeneuve ✔,Street circuit,Clockwise,Montreal,CanadaCanada,4.361 km (2.710 mi),Canadian Grand Prix,"1978–1986, 1988–2008, 2010–2019, 2022",41
-Circuit Mont-Tremblant,Race circuit,Clockwise,Mont-Tremblant,CanadaCanada,4.265 km (2.650 mi),Canadian Grand Prix,"1968, 1970",2
-Circuit of the Americas ✔,Race circuit,Anti-clockwise,Austin,United StatesUnited States,5.513 km (3.426 mi),United States Grand Prix,"2012–2019, 2021–2022",10
-Circuit Paul Ricard,Race circuit,Clockwise,Le Castellet,FranceFrance,5.842 km (3.630 mi),French Grand Prix,"1971, 1973, 1975–1976, 1978, 1980, 1982–1983, 1985–1990, 2018–2019, 2021–2022",18
-Circuit Zandvoort ✔,Race circuit,Clockwise,Zandvoort,NetherlandsNetherlands,4.259 km (2.646 mi),Dutch Grand Prix,"1952–1953, 1955, 1958–1971, 1973–1985, 2021–2022",32
-Circuit Zolder,Race circuit,Clockwise,Heusden-Zolder,BelgiumBelgium,4.262 km (2.648 mi),Belgian Grand Prix,"1973, 1975–1982, 1984",10
-Circuito da Boavista,Street circuit,Anti-clockwise,Porto,PortugalPortugal,7.775 km (4.831 mi),Portuguese Grand Prix,"1958, 1960",2
-Circuito de Monsanto,Street circuit,Clockwise,Lisbon,PortugalPortugal,5.440 km (3.380 mi),Portuguese Grand Prix,1959,1
-Circuito Permanente de Jerez,Race circuit,Clockwise,Jerez de la Frontera,SpainSpain,4.428 km (2.751 mi),"Spanish Grand Prix,","1986–1990, 1994, 1997",7
-,,,,,,European Grand Prix,,
-Circuito Permanente del Jarama,Race circuit,Clockwise,San Sebastián de los Reyes,SpainSpain,3.404 km (2.115 mi),Spanish Grand Prix,"1968, 1970, 1972, 1974, 1976–1979, 1981",9
-Complexe Européen de Nivelles-Baulers,Race circuit,Clockwise,Nivelles,BelgiumBelgium,3.724 km (2.314 mi),Belgian Grand Prix,"1972, 1974",2
-Dallas Fair Park,Street circuit,Anti-clockwise,Dallas,United StatesUnited States,3.901 km (2.424 mi),Dallas Grand Prix,1984,1
-Detroit Street Circuit,Street circuit,Anti-clockwise,Detroit,United StatesUnited States,4.168 km (2.590 mi),Detroit Grand Prix,1982–1988,7
-Donington Park,Race circuit,Clockwise,Castle Donington,United KingdomUnited Kingdom,4.020 km (2.498 mi),European Grand Prix,1993,1
-Fuji Speedway,Race circuit,Clockwise,Oyama,JapanJapan,4.563 km (2.835 mi),Japanese Grand Prix,"1976–1977, 2007–2008",4
-Hockenheimring,Race circuit,Clockwise,Hockenheim,GermanyGermany,4.574 km (2.842 mi),German Grand Prix,"1970, 1977–1984, 1986–2006, 2008, 2010, 2012, 2014, 2016, 2018–2019",37
-Hungaroring ✔,Race circuit,Clockwise,Mogyoród,HungaryHungary,4.381 km (2.722 mi),Hungarian Grand Prix,1986–2022,37
-Indianapolis Motor Speedway,Race circuit,Clockwise,Speedway,United StatesUnited States,4.192 km (2.605 mi),"Indianapolis 500,[b]","1950–1960, 2000–2007",19
-,,,,,,United States Grand Prix,,
-Intercity Istanbul Park,Race circuit,Anti-clockwise,Istanbul,TurkeyTurkey,5.338 km (3.317 mi),Turkish Grand Prix,"2005–2011, 2020–2021",9
-Jeddah Corniche Circuit ✔,Street circuit,Anti-clockwise,Jeddah,Saudi ArabiaSaudi Arabia,6.174 km (3.836 mi),Saudi Arabian Grand Prix,2021–2022,2
-Korea International Circuit,Race circuit,Anti-clockwise,Yeongam,South KoreaSouth Korea,5.615 km (3.489 mi),Korean Grand Prix,2010–2013,4
-Kyalami Grand Prix Circuit,Race circuit,Anti-clockwise,Midrand,South AfricaSouth Africa,4.261 km (2.648 mi),South African Grand Prix,"1967–1980, 1982–1985, 1992–1993",20
-Las Vegas Street Circuit ✔,Street circuit,Anti-clockwise,Paradise,United StatesUnited States,6.120 km (3.803 mi),Las Vegas Grand Prix,,0
-Long Beach Street Circuit,Street circuit,Clockwise,Long Beach,United StatesUnited States,3.275 km (2.035 mi),United States Grand Prix West,1976–1983,8
-Losail International Circuit ✔,Race circuit,Clockwise,Lusail,QatarQatar,5.380 km (3.343 mi),Qatar Grand Prix,2021,1
-Marina Bay Street Circuit ✔,Street circuit,Anti-clockwise,Marina Bay,SingaporeSingapore,5.063 km (3.146 mi),Singapore Grand Prix,"2008–2019, 2022",13
-Miami International Autodrome ✔,Street circuit,Anti-clockwise,Miami Gardens,United StatesUnited States,5.412 km (3.363 mi),Miami Grand Prix,2022,1
-Montjuïc circuit,Street circuit,Anti-clockwise,Barcelona,SpainSpain,3.791 km (2.356 mi),Spanish Grand Prix,"1969, 1971, 1973, 1975",4
-Mosport International Raceway,Race circuit,Clockwise,Bowmanville,CanadaCanada,3.957 km (2.459 mi),Canadian Grand Prix,"1967, 1969, 1971–1974, 1976–1977",8
-Nürburgring,Race circuit,Clockwise,Nürburg,GermanyGermany,5.148 km (3.199 mi),"German Grand Prix,","1951–1954, 1956–1958, 1961–1969, 1971–1976, 1984–1985, 1995–2007, 2009, 2011, 2013, 2020",41
-,,,,,,"European Grand Prix,",,
-,,,,,,"Luxembourg Grand Prix,",,
-,,,,,,Eifel Grand Prix,,
-Pescara Circuit,Road circuit,Clockwise,Pescara,ItalyItaly,25.800 km (16.031 mi),Pescara Grand Prix,1957,1
-Phoenix Street Circuit,Street circuit,Anti-clockwise,Phoenix,United StatesUnited States,3.720 km (2.312 mi),United States Grand Prix,1989–1991,3
-Prince George Circuit,Race circuit,Clockwise,East London,South AfricaSouth Africa,3.920 km (2.436 mi),South African Grand Prix,"1962–1963, 1965",3
-Red Bull Ring ✔,Race circuit,Clockwise,Spielberg,AustriaAustria,4.318 km (2.683 mi),"Austrian Grand Prix,","1970–1987, 1997–2003, 2014–2022[c]",36
-,,,,,,Styrian Grand Prix,,
-Riverside International Raceway,Race circuit,Clockwise,Moreno Valley,United StatesUnited States,5.271 km (3.275 mi),United States Grand Prix,1960,1
-Rouen-Les-Essarts,Road circuit,Clockwise,Orival,FranceFrance,6.542 km (4.065 mi),French Grand Prix,"1952, 1957, 1962, 1964, 1968",5
-Scandinavian Raceway,Race circuit,Clockwise,Anderstorp,SwedenSweden,4.031 km (2.505 mi),Swedish Grand Prix,1973–1978,6
-Sebring Raceway,Road circuit,Clockwise,Sebring,United StatesUnited States,8.356 km (5.192 mi),United States Grand Prix,1959,1
-Sepang International Circuit,Race circuit,Clockwise,Sepang,MalaysiaMalaysia,5.543 km (3.444 mi),Malaysian Grand Prix,1999–2017,19
-Shanghai International Circuit *,Race circuit,Clockwise,Shanghai,ChinaChina,5.451 km (3.387 mi),Chinese Grand Prix,2004–2019,16
-Silverstone Circuit ✔,Race circuit,Clockwise,Silverstone,United KingdomUnited Kingdom,5.891 km (3.660 mi),"British Grand Prix,","1950–1954, 1956, 1958, 1960, 1963, 1965, 1967, 1969, 1971, 1973, 1975, 1977, 1979, 1981, 1983, 1985, 1987–2022[a]",57
-,,,,,,70th Anniversary Grand Prix,,
-Sochi Autodrom,Race circuit,Clockwise,Sochi,RussiaRussia,5.848 km (3.634 mi),Russian Grand Prix,2014–2021,8
-Suzuka International Racing Course ✔,Race circuit,Part clockwise and part anti-clockwise (figure eight),Suzuka,JapanJapan,5.807 km (3.608 mi),Japanese Grand Prix,"1987–2006, 2009–2019, 2022",32
-TI Circuit Aida,Race circuit,Clockwise,Mimasaka,JapanJapan,3.703 km (2.301 mi),Pacific Grand Prix,1994–1995,2
-Valencia Street Circuit,Street circuit,Clockwise,Valencia,SpainSpain,5.419 km (3.367 mi),European Grand Prix,2008–2012,5
-Watkins Glen International,Race circuit,Clockwise,Watkins Glen,United StatesUnited States,5.430 km (3.374 mi),United States Grand Prix,1961–1980,20
-Yas Marina Circuit ✔,Race circuit,Anti-clockwise,Abu Dhabi,United Arab EmiratesUnited Arab Emirates,5.281 km (3.281 mi),Abu Dhabi Grand Prix,2009–2022,14
-Zeltweg Airfield,Road circuit,Clockwise,Zeltweg,AustriaAustria,3.186 km (1.980 mi),Austrian Grand Prix,1964,1
+﻿Circuit,Type,Direction,Location,Country,Last length used,Grands Prix,Season(s),Grands Prix held
+Adelaide Street Circuit,Street circuit,Clockwise,Adelaide,Australia,3.780 km (2.349 mi),Australian Grand Prix,1985–1995,11
+Ain-Diab Circuit,Road circuit,Clockwise,Casablanca,Morocco,7.618 km (4.734 mi),Moroccan Grand Prix,1958,1
+Aintree Motor Racing Circuit,Road circuit,Clockwise,Aintree,United Kingdom,4.828 km (3.000 mi),British Grand Prix,"1955, 1957, 1959, 1961–1962",5
+Albert Park Circuit,Street circuit,Clockwise,Melbourne,Australia,5.278 km (3.280 mi),Australian Grand Prix,"1996–2019, 2022",25
+Algarve International Circuit,Race circuit,Clockwise,Portimão,Portugal,4.653 km (2.891 mi),Portuguese Grand Prix,2020–2021,2
+Autódromo do Estoril,Race circuit,Clockwise,Estoril,Portugal,4.360 km (2.709 mi),Portuguese Grand Prix,1984–1996,13
+Autodromo Enzo e Dino Ferrari,Race circuit,Anti-clockwise,Imola,Italy,4.909 km (3.050 mi),"Italian Grand Prix,","1980–2006, 2020–2022",30
+Autódromo Hermanos Rodríguez,Race circuit,Clockwise,Mexico City,Mexico,4.304 km (2.674 mi),"Mexican Grand Prix,","1963–1970, 1986–1992, 2015–2019, 2021–2022",22
+Autódromo Internacional do Rio de Janeiro,Race circuit,Anti-clockwise,Rio de Janeiro,Brazil,5.031 km (3.126 mi),Brazilian Grand Prix,"1978, 1981–1989",10
+Autodromo Internazionale del Mugello,Race circuit,Clockwise,Scarperia e San Piero,Italy,5.245 km (3.259 mi),Tuscan Grand Prix,2020,1
+Autodromo José Carlos Pace,Race circuit,Anti-clockwise,São Paulo,Brazil,4.309 km (2.677 mi),"Brazilian Grand Prix,","1973–1977, 1979–1980, 1990–2019, 2021–2022",39
+Autódromo Juan y Oscar Gálvez,Race circuit,Clockwise,Buenos Aires,Argentina,4.259 km (2.646 mi),Argentine Grand Prix,"1953–1958, 1960, 1972–1975, 1977–1981, 1995–1998",20
+Autodromo Nazionale di Monza,Race circuit,Clockwise,Monza,Italy,5.793 km (3.600 mi),Italian Grand Prix,"1950–1979, 1981–2022",72
+AVUS,Road circuit,Anti-clockwise,Berlin,Germany,8.300 km (5.157 mi),German Grand Prix,1959,1
+Bahrain International Circuit,Race circuit,Clockwise,Sakhir,Bahrain,5.412 km (3.363 mi),"Bahrain Grand Prix,","2004–2010, 2012–2022[a]",19
+Baku City Circuit,Street circuit,Anti-clockwise,Baku,Azerbaijan,6.003 km (3.730 mi),"European Grand Prix,","2016–2019, 2021–2022",6
+Brands Hatch Circuit,Race circuit,Clockwise,West Kingsdown,United Kingdom,3.703 km (2.301 mi),"British Grand Prix,","1964, 1966, 1968, 1970, 1972, 1974, 1976, 1978, 1980, 1982–1986",14
+Buddh International Circuit,Race circuit,Clockwise,Greater Noida,India,5.141 km (3.194 mi),Indian Grand Prix,2011–2013,3
+Bugatti Au Mans,Race circuit,Clockwise,Le Mans,France,4.430 km (2.753 mi),French Grand Prix,1967,1
+Caesars Palace Grand Prix Circuit,Street circuit,Anti-clockwise,Paradise,United States,3.650 km (2.268 mi),Caesars Palace Grand Prix,1981–1982,2
+Charade Circuit,Road circuit,Clockwise,Saint-Genès-Champanelle,France,8.055 km (5.005 mi),French Grand Prix,"1965, 1969–1970, 1972",4
+Circuit Bremgarten,Road circuit,Clockwise,Bern,Switzerland,7.208 km (4.479 mi),Swiss Grand Prix,1950–1954,5
+Circuit de Barcelona-Catalunya,Race circuit,Clockwise,Montmeló,Spain,4.675 km (2.905 mi),Spanish Grand Prix,1991–2022,32
+Circuit de Monaco,Street circuit,Clockwise,Monte Carlo,Monaco,3.337 km (2.074 mi),Monaco Grand Prix,"1950, 1955–2019, 2021–2022",68
+Circuit de Nevers Magny-Cours,Race circuit,Clockwise,Magny-Cours,France,4.411 km (2.741 mi),French Grand Prix,1991–2008,18
+Circuit de Pedralbes,Street circuit,Clockwise,Barcelona,Spain,6.316 km (3.925 mi),Spanish Grand Prix,"1951, 1954",2
+Circuit de Reims-Gueux,Road circuit,Clockwise,Gueux,France,8.302 km (5.159 mi),French Grand Prix,"1950–1951, 1953–1954, 1956, 1958–1961, 1963, 1966",11
+Circuit de Spa-Francorchamps,Race circuit,Clockwise,Stavelot,Belgium,7.004 km (4.352 mi),Belgian Grand Prix,"1950–1956, 1958, 1960–1968, 1970, 1983, 1985–2002, 2004–2005, 2007–2022",55
+Circuit Dijon-Prenois,Race circuit,Clockwise,Prenois,France,3.886 km (2.415 mi),"French Grand Prix,","1974, 1977, 1979, 1981–1982, 1984",6
+Circuit Gilles-Villeneuve,Street circuit,Clockwise,Montreal,Canada,4.361 km (2.710 mi),Canadian Grand Prix,"1978–1986, 1988–2008, 2010–2019, 2022",41
+Circuit Mont-Tremblant,Race circuit,Clockwise,Mont-Tremblant,Canada,4.265 km (2.650 mi),Canadian Grand Prix,"1968, 1970",2
+Circuit of the Americas,Race circuit,Anti-clockwise,Austin,United States,5.513 km (3.426 mi),United States Grand Prix,"2012–2019, 2021–2022",10
+Circuit Paul Ricard,Race circuit,Clockwise,Le Castellet,France,5.842 km (3.630 mi),French Grand Prix,"1971, 1973, 1975–1976, 1978, 1980, 1982–1983, 1985–1990, 2018–2019, 2021–2022",18
+Circuit Zandvoort,Race circuit,Clockwise,Zandvoort,Netherlands,4.259 km (2.646 mi),Dutch Grand Prix,"1952–1953, 1955, 1958–1971, 1973–1985, 2021–2022",32
+Circuit Zolder,Race circuit,Clockwise,Heusden-Zolder,Belgium,4.262 km (2.648 mi),Belgian Grand Prix,"1973, 1975–1982, 1984",10
+Circuito da Boavista,Street circuit,Anti-clockwise,Porto,Portugal,7.775 km (4.831 mi),Portuguese Grand Prix,"1958, 1960",2
+Circuito de Monsanto,Street circuit,Clockwise,Lisbon,Portugal,5.440 km (3.380 mi),Portuguese Grand Prix,1959,1
+Circuito Permanente de Jerez,Race circuit,Clockwise,Jerez de la Frontera,Spain,4.428 km (2.751 mi),"Spanish Grand Prix,","1986–1990, 1994, 1997",7
+Circuito Permanente del Jarama,Race circuit,Clockwise,San Sebastián de los Reyes,Spain,3.404 km (2.115 mi),Spanish Grand Prix,"1968, 1970, 1972, 1974, 1976–1979, 1981",9
+Complexe Européen de Nivelles-Baulers,Race circuit,Clockwise,Nivelles,Belgium,3.724 km (2.314 mi),Belgian Grand Prix,"1972, 1974",2
+Dallas Fair Park,Street circuit,Anti-clockwise,Dallas,United States,3.901 km (2.424 mi),Dallas Grand Prix,1984,1
+Detroit Street Circuit,Street circuit,Anti-clockwise,Detroit,United States,4.168 km (2.590 mi),Detroit Grand Prix,1982–1988,7
+Donington Park,Race circuit,Clockwise,Castle Donington,United Kingdom,4.020 km (2.498 mi),European Grand Prix,1993,1
+Fuji Speedway,Race circuit,Clockwise,Oyama,Japan,4.563 km (2.835 mi),Japanese Grand Prix,"1976–1977, 2007–2008",4
+Hockenheimring,Race circuit,Clockwise,Hockenheim,Germany,4.574 km (2.842 mi),German Grand Prix,"1970, 1977–1984, 1986–2006, 2008, 2010, 2012, 2014, 2016, 2018–2019",37
+Hungaroring,Race circuit,Clockwise,Mogyoród,Hungary,4.381 km (2.722 mi),Hungarian Grand Prix,1986–2022,37
+Indianapolis Motor Speedway,Race circuit,Clockwise,Speedway,United States,4.192 km (2.605 mi),"Indianapolis 500,[b]","1950–1960, 2000–2007",19
+Intercity Istanbul Park,Race circuit,Anti-clockwise,Istanbul,Turkey,5.338 km (3.317 mi),Turkish Grand Prix,"2005–2011, 2020–2021",9
+Jeddah Corniche Circuit,Street circuit,Anti-clockwise,Jeddah,Saudi Arabia,6.174 km (3.836 mi),Saudi Arabian Grand Prix,2021–2022,2
+Korea International Circuit,Race circuit,Anti-clockwise,Yeongam,South Korea,5.615 km (3.489 mi),Korean Grand Prix,2010–2013,4
+Kyalami Racing Circuit,Race circuit,Anti-clockwise,Midrand,South Africa,4.261 km (2.648 mi),South African Grand Prix,"1967–1980, 1982–1985, 1992–1993",20
+Las Vegas Street Circuit,Street circuit,Anti-clockwise,Paradise,United States,6.120 km (3.803 mi),Las Vegas Grand Prix,,0
+Long Beach Street Circuit,Street circuit,Clockwise,Long Beach,United States,3.275 km (2.035 mi),United States Grand Prix West,1976–1983,8
+Losail International Circuit,Race circuit,Clockwise,Lusail,Qatar,5.380 km (3.343 mi),Qatar Grand Prix,2021,1
+Marina Bay Street Circuit,Street circuit,Anti-clockwise,Marina Bay,Singapore,5.063 km (3.146 mi),Singapore Grand Prix,"2008–2019, 2022",13
+Miami International Autodrome,Street circuit,Anti-clockwise,Miami Gardens,United States,5.412 km (3.363 mi),Miami Grand Prix,2022,1
+Montjuïc circuit,Street circuit,Anti-clockwise,Barcelona,Spain,3.791 km (2.356 mi),Spanish Grand Prix,"1969, 1971, 1973, 1975",4
+Mosport International Raceway,Race circuit,Clockwise,Bowmanville,Canada,3.957 km (2.459 mi),Canadian Grand Prix,"1967, 1969, 1971–1974, 1976–1977",8
+Nürburgring,Race circuit,Clockwise,Nürburg,Germany,5.148 km (3.199 mi),"German Grand Prix,","1951–1954, 1956–1958, 1961–1969, 1971–1976, 1984–1985, 1995–2007, 2009, 2011, 2013, 2020",41
+Pescara Circuit,Road circuit,Clockwise,Pescara,Italy,25.800 km (16.031 mi),Pescara Grand Prix,1957,1
+Phoenix Street Circuit,Street circuit,Anti-clockwise,Phoenix,United States,3.720 km (2.312 mi),United States Grand Prix,1989–1991,3
+Prince George Circuit,Race circuit,Clockwise,East London,South Africa,3.920 km (2.436 mi),South African Grand Prix,"1962–1963, 1965",3
+Red Bull Ring,Race circuit,Clockwise,Spielberg,Austria,4.318 km (2.683 mi),"Austrian Grand Prix,","1970–1987, 1997–2003, 2014–2022[c]",36
+Riverside International Raceway,Race circuit,Clockwise,Moreno Valley,United States,5.271 km (3.275 mi),United States Grand Prix,1960,1
+Circuit de Rouen-les-Essarts,Road circuit,Clockwise,Orival,France,6.542 km (4.065 mi),French Grand Prix,"1952, 1957, 1962, 1964, 1968",5
+Scandinavian Raceway,Race circuit,Clockwise,Anderstorp,Sweden,4.031 km (2.505 mi),Swedish Grand Prix,1973–1978,6
+Sebring Raceway,Road circuit,Clockwise,Sebring,United States,8.356 km (5.192 mi),United States Grand Prix,1959,1
+Sepang International Circuit,Race circuit,Clockwise,Sepang,Malaysia,5.543 km (3.444 mi),Malaysian Grand Prix,1999–2017,19
+Shanghai International Circuit,Race circuit,Clockwise,Shanghai,China,5.451 km (3.387 mi),Chinese Grand Prix,2004–2019,16
+Silverstone Circuit,Race circuit,Clockwise,Silverstone,United Kingdom,5.891 km (3.660 mi),"British Grand Prix,","1950–1954, 1956, 1958, 1960, 1963, 1965, 1967, 1969, 1971, 1973, 1975, 1977, 1979, 1981, 1983, 1985, 1987–2022[a]",57
+Sochi Autodrom,Race circuit,Clockwise,Sochi,Russia,5.848 km (3.634 mi),Russian Grand Prix,2014–2021,8
+Suzuka International Racing Course,Race circuit,Part clockwise and part anti-clockwise (figure eight),Suzuka,Japan,5.807 km (3.608 mi),Japanese Grand Prix,"1987–2006, 2009–2019, 2022",32
+TI Circuit Aida,Race circuit,Clockwise,Mimasaka,Japan,3.703 km (2.301 mi),Pacific Grand Prix,1994–1995,2
+Valencia Street Circuit,Street circuit,Clockwise,Valencia,Spain,5.419 km (3.367 mi),European Grand Prix,2008–2012,5
+Watkins Glen International,Race circuit,Clockwise,Watkins Glen,United States,5.430 km (3.374 mi),United States Grand Prix,1961–1980,20
+Yas Marina Circuit,Race circuit,Anti-clockwise,Abu Dhabi,United Arab Emirates,5.281 km (3.281 mi),Abu Dhabi Grand Prix,2009–2022,14
+Zeltweg Airfield,Road circuit,Clockwise,Zeltweg,Austria,3.186 km (1.980 mi),Austrian Grand Prix,1964,1
