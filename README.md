@@ -17,7 +17,7 @@ Research Questions to Answer:
   2.	Has the rate of injury due to accidents in Formula 1 events decreased over time?
     - Also show the number of driver injuries relative to the number of race participants.
     - Also show the number of accidents/collisions over time and compare this to the number of injuries. This can be an indicator of car safety.
-  3.	Are road circuits less safe for drivers than dedicated race circuits?
+  3.	Are street or road circuits less safe for drivers than dedicated race circuits?
 
 Datasets to be Used:
  - https://www.kaggle.com/datasets/jtrotman/formula-1-race-data?select=races.csv
