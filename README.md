@@ -24,6 +24,15 @@ Datasets to be Used:
  - https://en.wikipedia.org/wiki/List_of_Formula_One_fatalities
  - https://en.wikipedia.org/wiki/List_of_Formula_One_circuits
  
+File directory for F1_safety repo:
+- The "Notebooks" folder contains the Jupyter notebooks with script used to read in,  clean and analyse the datasets, as well as generate the visualisations.
+- The "Resources" folder contains the a range of CSV datasets used as the basis for the analysis.
+- The "Visualisations" folder contains .png's of all visualisations created and used in the presentation.
+- In addition, contained in the repo homepage is:
+  - The group's Powerpoint presentation.
+  - The readme file for the project.
+  - A short text file "Analysis and Conclusions" outlining the project's key findings.
+
 Breakdown of Tasks:
      - Create repo and share details
  - Answer question 1:
